@@ -30,6 +30,20 @@ h1 {
   color: #343331;
 }
 
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+
+select {
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid #cccccc;
+  font-size: 1rem;
+  margin-bottom: 25px;
+}
+
 #quote {
   font-size: 1.3rem;
   line-height: 1.8;
@@ -41,6 +55,12 @@ h1 {
   font-size: 1rem;
   font-style: italic;
   color: #000000;
+  margin-bottom: 10px;
+}
+
+#categoryLabel {
+  font-size: 0.9rem;
+  color: #555555;
   margin-bottom: 25px;
 }
 
