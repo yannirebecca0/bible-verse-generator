@@ -69,7 +69,6 @@ Daily-Bible-Verse/
 Rebecca Yanni
 
 Computer Science Student at Rutgers University–Newark  
-Minor in Data Science
 
 ## Preview
 
