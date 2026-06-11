@@ -9,10 +9,21 @@
 <body>
   <div class="container">
     <h1>࿇ Daily Bible Verse ࿇</h1>
-    <p class="subtitle">A JavaScript project by Rebecca Yanni</p>
+    <p class="subtitle">A Scripture encouragement app by Rebecca Yanni</p>
+
+    <label for="categorySelect">Choose a category:</label>
+    <select id="categorySelect">
+      <option value="All">All</option>
+      <option value="Anxiety">Anxiety</option>
+      <option value="Hope">Hope</option>
+      <option value="Faith">Faith</option>
+      <option value="Strength">Strength</option>
+      <option value="Peace">Peace</option>
+    </select>
 
     <p id="quote">Click the button to load a verse.</p>
     <p id="author"></p>
+    <p id="categoryLabel"></p>
 
     <button id="newQuoteBtn">Show Another Verse</button>
   </div>
